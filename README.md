@@ -1,7 +1,7 @@
 
 <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width=170px height=170px align="right"  />
 
-Hey, I'm Santiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ Hi! I'm Santiago  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Santiago-Iriarte?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-iriarte-50973b227)](https://www.linkedin.com/in/santiago-iriarte-50973b227) [![Gmail Badge](https://img.shields.io/badge/-santoiriart1234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:santoiriart1234@gmail.com) 
